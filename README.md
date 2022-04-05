@@ -6,4 +6,4 @@
 1. винимательность;
 2. проницительность.
 
-![](file:///C:/projects/Netology-test/course/HW2/course/img/allergnachelgl.jpg)
+![](https://raw.githubusercontent.com/kotik125/Course/main/img/allergnachelgl.jpg)
